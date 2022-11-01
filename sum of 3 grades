@@ -1,0 +1,2 @@
+let grades = [10, 18, 14]
+let sum = grades[0] + grades[1] + grades[2]
